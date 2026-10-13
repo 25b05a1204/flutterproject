@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795115977938",
+    "project_id": "connectupflutter",
+    "storage_bucket": "connectupflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795115977938:android:3827e6a6d868b401e1010b",
+        "android_client_info": {
+          "package_name": "com.example.pro1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrSm416CRaLXL2K8xoGl6JwONzmZUv25k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
